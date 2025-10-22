@@ -8,7 +8,6 @@ This simple website features a homepage linking to several recipe pages, built w
 ## 🚀 Live Demo
 
 👉 [Click here to view the project live](https://odin-recipes-olive.vercel.app)
-_(Replace `#` with your GitHub Pages or Netlify link once deployed.)_
 
 ---
 
